@@ -1,2 +1,1 @@
-# getting-and-cleaning-data
-Coursera MOCC
+# getting and cleaning data course project
